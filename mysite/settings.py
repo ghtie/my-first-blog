@@ -29,6 +29,7 @@ ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
+#test comment
 
 INSTALLED_APPS = [
     'django.contrib.admin',
